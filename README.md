@@ -8,4 +8,4 @@ Install The Tela-Circle-red-dark icon pack and the Nord Theme. What I did was to
 
 Now u can launch gnome-tweaks and btw I took a screenshot of how I configured it as well. I titled it Gnome-tweaks.png.
 
-Obviously I use the defaut Gnome Terminal. U can also take a look at how I customized it if u go to the "Terminal" Folder, I put 2 screenshots there.
+Obviously I use the defaut Gnome Terminal. U can also take a look at how I customized it if u go to the "Terminal" Folder, I put 2 screenshots there...
