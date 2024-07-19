@@ -4,7 +4,7 @@ Gnome Extensions installed: User Themes, ArcMenu, Blur my Shell, Dash to Dock fo
 
 Take a look at the screenshots I uploaded in the "Extensions" folder in order to know how I configured them. Just read the title of each image to know which extension is being customized.
 
-Install The Tela-Circle-red-dark icon pack and the Nord Theme. What I did was just installing all Tela-circle icon packs to have access to the other icon colors as well, that's when I saw that the red one is installed, I couldnt install the red icon theme alone, so please bear that in mind.
+Install The Tela-Circle-red-dark icon pack and the Nord Theme. What I did was just installing all Tela-circle icon packs to have access to the other icon colors, that's when I saw that the red one is installed, I couldnt install the red icon theme alone, so please bear that in mind.
 
 Now u can launch gnome-tweaks and btw I took a screenshot of how I configured it as well. I titled it Gnome-tweaks.png.
 
