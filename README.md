@@ -1,4 +1,4 @@
-Dependencies: gnome-tweaks, extension manager, Tela Circle red-dark icons (uploaded the link in reddit), Nord Theme (uploaded the link in the reddit).
+Dependencies: gnome-tweaks, extension manager, Tela Circle red-dark icons (uploaded the link in reddit), Nord Theme (uploaded the link in reddit).
 
 Gnome Extensions installed: User Themes, ArcMenu, Blur my Shell, Dash to Dock for Cosmic, Focus, Just Perfection, clipboard indicator, compiz alike magic lamp effect.
 
